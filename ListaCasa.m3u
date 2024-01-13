@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.americatv.com.pe/noticias/_next/image?url=https%3A%2F%2Fe-an.americatv.com.pe%2Factualidad-comunicado-n458153-640x360-1004092.jpg&w=1080&q=75" group-title= "LAT|FREE|PERU", America TV
+http://181.119.66.30:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png", Latina
+http://photocall.tv/latina.php/.m3u8
