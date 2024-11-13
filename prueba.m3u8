@@ -23,8 +23,24 @@ https://server1.betzta.com/l1max/tracks-v1a1/mono.m3u8?remote=190.236.45.95&toke
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2011-205_import.png" group-title="News",Canal N
+http://190.119.123.220:4000/play/a02h/87888411.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisión.png" group-title="General",Willax
+https://live-c.cf.dmcdn.net/sec2(Fri6rsK1R9p9orn_b2gtoqFyuAp1_2bnEL3pme0gL6pz9bmIfvbHKRRysG3b7EKqbsdKqsU38zxc5ycdRGt7ZJV5z_yTEJmASgORlsAnb9apriyechbVbAK6sZEZp4Qj)/dm/3/x7x4dgx/s/live-480.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="General",Global TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="TlNovelas.mx" tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text.png" group-title="Novelas",Tl Novelas
+http://181.78.105.146:2000/play/a08d/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur
