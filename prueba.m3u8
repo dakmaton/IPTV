@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -7,12 +7,16 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJiK8PhVRpAUSenKIIf8LkmpXQvjQC9nneA&s" group-title="Deporte",Liga 1 Max
-https://server1.betzta.com/l1max/tracks-v1a1/mono.m3u8?remote=190.236.45.95&token=368a56d0730bf5cc2b489aade071408577604114-9c06f2cca1ceb722f76fac87dfa1e20c-1731546554-1731535754
+#EXTINF:-1 tvg-id="DSports.pe" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Deportes",DSports
+https://c3bvcnrz.la10tv.com/dsports/tracks-v1a1/mono.m3u8?token=7a633341a5a10cab002eece13d36e877b7920f5b-4d-1731572521-1731536521
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv5.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Liga1Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Liga_1.png/800px-Liga_1.png" group-title="Deporte",Liga 1 Max
+https://server1.betzta.com/l1max/tracks-v1a1/mono.m3u8?remote=190.236.45.95&token=368a56d0730bf5cc2b489aade071408577604114-9c06f2cca1ceb722f76fac87dfa1e20c-1731546554-1731535754
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Perú
@@ -23,7 +27,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
