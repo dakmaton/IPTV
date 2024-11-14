@@ -227,6 +227,10 @@ http://179.1.146.21:8000/play/a05x/index.m3u8
 http://179.1.146.21:8000/play/a040/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids",Disney Junior Latin America
+http://168.181.122.234:8000/play/a037/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.populoos.es/assets/images/tv/lolly.png"  group-title="Infantiles",Lolly Kids HD
 http://179.1.146.21:8000/play/a099/index.m3u8
 ##EXTVLCOPT:network-caching=1000
