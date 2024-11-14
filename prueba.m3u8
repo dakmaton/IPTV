@@ -56,7 +56,7 @@ http://45.175.139.194:8000/play/30
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74"  group-title="Novelas", K-Drama
-http://179.1.146.21:8000/play/a08m/index.m3u8
+http://179.1.146.21:8000/play/a092/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur
