@@ -151,6 +151,14 @@ http://179.1.146.21:8000/play/a05z/index.m3u8
 http://179.1.146.21:8000/play/a02q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png"  group-title="Cultura",History
+http://179.1.146.21:8000/play/a03j/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/History2-logo.jpg"  group-title="Cultura",History2
+http://179.1.146.21:8000/play/a06z/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="Entretenimiento", A&E
 http://179.1.146.21:8000/play/a03k/index.m3u8
 ##EXTVLCOPT:network-caching=1000
