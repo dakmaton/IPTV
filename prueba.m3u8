@@ -83,7 +83,7 @@ http://45.175.139.194:8000/play/32
 http://45.175.139.194:8000/play/44
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="Peliculas",Warner Channel HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="Peliculas",Warner Channel
 http://179.1.146.21:8000/play/a03m/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -91,11 +91,43 @@ http://179.1.146.21:8000/play/a03m/index.m3u8
 http://bgtv.xyz/play/play-117.php?ul=489&token=dfghdfghfghdfghdfg
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="Series",AXN HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="Series",AXN
 http://179.1.146.21:8000/play/a03n/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="Entretenimiento", A&E HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png"  group-title="Peliculas",Cinecanal 
+http://179.1.146.21:8000/play/a02r/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png"  group-title="Peliculas",Cinemax 
+http://179.1.146.21:8000/play/a04h/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE 
+http://179.1.146.21:8000/play/a06u/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"  group-title="Cultura",Animal Planet 
+http://179.1.146.21:8000/play/a032/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/discoverytheater.png"  group-title="Cultura",Discovery Theater
+http://179.1.146.21:8000/play/a05z/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"  group-title="Cultura",Discovery World HD
+http://179.1.146.21:8000/play/a02q/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="Entretenimiento", A&E
 http://179.1.146.21:8000/play/a03k/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"  group-title="Entretenimiento",Discovery H&H
+http://179.1.146.21:8000/play/a05y/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"  group-title="Infantiles",Discovery Kids
+http://179.1.146.21:8000/play/a05x/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
