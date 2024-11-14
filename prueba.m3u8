@@ -63,8 +63,12 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.jpg", Exitosa | PE
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/rt.png", RT
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.jpg", Exitosa | PE
+http://179.1.146.21:8000/play/a08v/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="684" tvg-name="Nativa" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png", Nativa | PE
@@ -133,5 +137,25 @@ http://179.1.146.21:8000/play/a05y/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png"  group-title="Infantiles",Discovery Kids
 http://179.1.146.21:8000/play/a05x/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"  group-title="Deportes",ESPN HD
+http://179.1.146.21:8000/play/a08t/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png"  group-title="Deportes",ESPN 2
+http://179.1.146.21:8000/play/a03q/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png"  group-title="Deportes",ESPN 3
+http://179.1.146.21:8000/play/a048/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png"  group-title="Deportes",ESPN 4
+http://179.1.146.21:8000/play/a02t/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/espnplus.png"  group-title="Deportes",ESPN 5
+http://179.1.146.21:8000/play/a064/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
