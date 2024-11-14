@@ -55,6 +55,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://45.175.139.194:8000/play/30
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74"  group-title="Novelas", K-Drama
+http://179.1.146.21:8000/play/a08m/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -97,6 +101,10 @@ http://bgtv.xyz/play/play-117.php?ul=489&token=dfghdfghfghdfghdfg
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/fx.png"  group-title="Peliculas",FX HD
 http://179.1.146.21:8000/play/a06c/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/investigationdiscovery.png"  group-title="Series", Investigation Discovery
+http://179.1.146.21:8000/play/a04j/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="Series",AXN
