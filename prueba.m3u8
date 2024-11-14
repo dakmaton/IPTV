@@ -95,6 +95,10 @@ http://179.1.146.21:8000/play/a03m/index.m3u8
 http://bgtv.xyz/play/play-117.php?ul=489&token=dfghdfghfghdfghdfg
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/fx.png"  group-title="Peliculas",FX HD
+http://179.1.146.21:8000/play/a06c/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="Series",AXN
 http://179.1.146.21:8000/play/a03n/index.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -111,6 +115,30 @@ http://179.1.146.21:8000/play/a04h/index.m3u8
 http://179.1.146.21:8000/play/a06u/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/golden.png" group-title="Peliculas",Golden 
+http://179.1.146.21:8000/play/a01z/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
+http://179.1.146.21:8000/play/a02u/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
+http://179.1.146.21:8000/play/a031/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  tvg-logo="https://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
+http://179.1.146.21:8000/play/a070/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  tvg-logo="https://x.playerlatino.live/hbopop.png" group-title="Peliculas",HBO Pop
+http://179.1.146.21:8000/play/a03r/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  tvg-logo="https://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
+http://179.1.146.21:8000/play/a071/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png"  group-title="Cultura",Animal Planet 
 http://179.1.146.21:8000/play/a032/index.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -119,7 +147,7 @@ http://179.1.146.21:8000/play/a032/index.m3u8
 http://179.1.146.21:8000/play/a05z/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"  group-title="Cultura",Discovery World HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png"  group-title="Cultura",Discovery World
 http://179.1.146.21:8000/play/a02q/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -139,7 +167,7 @@ http://179.1.146.21:8000/play/a05y/index.m3u8
 http://179.1.146.21:8000/play/a05x/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"  group-title="Deportes",ESPN HD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png"  group-title="Deportes",ESPN 
 http://179.1.146.21:8000/play/a08t/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -157,5 +185,17 @@ http://179.1.146.21:8000/play/a02t/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/espnplus.png"  group-title="Deportes",ESPN 5
 http://179.1.146.21:8000/play/a064/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-61.jpg"  group-title="Deportes",ESPN 6
+http://179.1.146.21:8000/play/a049/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/espn-71.jpg"  group-title="Deportes",ESPN 7
+http://179.1.146.21:8000/play/a065/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/goltv.png"  group-title="Deportes",GolTV
+http://179.1.146.21:8000/play/a022/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
