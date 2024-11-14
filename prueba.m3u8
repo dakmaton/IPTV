@@ -123,6 +123,10 @@ http://179.1.146.21:8000/play/a02q/index.m3u8
 http://179.1.146.21:8000/play/a03k/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png"  group-title="Entretenimiento",E!
+http://179.1.146.21:8000/play/a021/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png"  group-title="Entretenimiento",Discovery H&H
 http://179.1.146.21:8000/play/a05y/index.m3u8
 ##EXTVLCOPT:network-caching=1000
