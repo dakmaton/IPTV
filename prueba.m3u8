@@ -11,6 +11,10 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://c3bvcnrz.la10tv.com/dsports/tracks-v1a1/mono.m3u8?token=7a633341a5a10cab002eece13d36e877b7920f5b-4d-1731572521-1731536521
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png"  group-title="General",America TV HD
+http://179.1.146.21:8000/play/a025/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 ##EXTVLCOPT:network-caching=1000
@@ -67,7 +71,31 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UC
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="Culture",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
+http://45.175.139.194:8000/play/32
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png"  group-title="Series", TNT Series
+http://45.175.139.194:8000/play/44
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png"  group-title="Peliculas",Warner Channel HD
+http://179.1.146.21:8000/play/a03m/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png"  group-title="Peliculas", Star Channel
+http://bgtv.xyz/play/play-117.php?ul=489&token=dfghdfghfghdfghdfg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png"  group-title="Series",AXN HD
+http://179.1.146.21:8000/play/a03n/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png"  group-title="Entretenimiento", A&E HD
+http://179.1.146.21:8000/play/a03k/index.m3u8
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
